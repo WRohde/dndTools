@@ -101,7 +101,7 @@ def randomTableFromCSV(filename):
     import a csv file as a randomTable, csv should be two columns 
     """
     tableEntries = []
-    with open(filename, newline='') as csvfile:
+    with open(filename, newline='',encoding='UTF-8') as csvfile:
         reader = csv.reader(csvfile, delimiter=',')
         subtableFlag = False
         for row in reader:
