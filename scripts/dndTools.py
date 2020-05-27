@@ -35,6 +35,16 @@ def roll(n=1, d=20, highest_n=None, lowest_n=None, modifier=None):
     
     return result
 
+def simulateRoll(dc,modifier,n=1000):
+    """
+    prints the number of successes out of n rolls 
+    """
+    successes = 0
+    for i in range (0,n):
+        if(roll(modifier=modifier) >= dc):
+            successes += 1
+    return(successes/n)
+
 def rollCharacterStats():
     stats = []
     for i in range(0,6):
