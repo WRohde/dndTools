@@ -1,0 +1,86 @@
+#+TITLE: Nightbloom
+#+LATEX_CLASS: dnd
+#+OPTIONS: bg:full justified:true toc:nil
+#+LATEX: \tableofcontents
+* The world of Nightbloom
+** Deities
+
+
+
+* The kingdom of Heth
+** The Heth Plateau
+The heth plateau is a vast unnatural plateau in the continent of the Streak. At the centre of The Heth Plateau stretch the endless peaks, and to the east and west it abruptly ends in cliffs miles high as it reaches the sea. All but the South of the plateau is the kingdom of Heth, a dwarven country ruled by the Rockblood clan for the last 800 years, the South side of the Heth plateau which was captured by Orsina, a country which occupies the South of the Streak, during a war 320 years ago. 
+
+The plateau is littered with relics from its history, menhirs stand 20ft tall along roads, vast megalithic towers of stone can be seen precariously balanced on hills where they have remained for millenia. Galeb Duhr and other earth elementals wander areas where battles were fought between elementals and dwarves in ancient times.
+
+Despite being close to the equator the climate in Heth varies between lukewarm in Summer, and freezing cold and snowy in Winter. 
+
+** The Dwarf clans and politics in Heth
+The current monarch is Scoria Rockblood ~200 years old female Mountain Dwarf, she desires to maintain peace with Orsina but many of the clan elders in her court want to reclaim The major city on the plateau is Heth, a dwarven settlement carved into the side of the montains. The most common races are Dwarf and Human. 
+
+The Rockblood Clan claim to be descended from Heth Stonespeaker. A legendary figure who, according to Dwarf records, in an ancient war between dwarves and earth elementals tricked the elementals into sundering half of the endless peaks and forming the debris into the Heth Plateau. In Legends Heth Stonespeaker sacrified themselves to end the war. 
+
+*** The Ancient Clans
+**** The Rockblood clan
+
+The Rockbloods are the royal clan. They have ruled the Kingdom of Heth for the last 800 years. The other clans have seemingly accepted that the royal line is passed down only this family for the past 4 generations, after all the ancient clans are so closely interrelated that no ruler has lacked the blood of at least one other clan.
+**** The Whitemetal Clan
+The whitemetal clan are a metalworking family. They are very invested in the politics of Heth, and very proud of their status. They are the largest of the ancient clans, and second in influence to the Rockblood clans.
+
+**** The Stoneshaper Clan
+The Stoneshaper Clan specialise in the cutting of gems. They are, to generalise, haughty towards clanless dwarves, half-orcs, gnomes, and commoners. They have never officialy accepted the Seashield clan.
+
+**** The Frostbeard Clan
+The Frostbear Clan involve themselves little in politics, they mostly live in secluded settlements in the Endless Peaks, where they practice magic and enchantment.
+
+#+Name: Heth Stonespeaker
+#+BEGIN_PAPERBOX
+Heth Stonespeaker was a powerful Tiefling sorcerer, testing the limits of her abilities she traveled to the plane of Earth and tricked an army of elementals into returning with her to the material plane. She persuaded them to destroy much of the Endless Peaks and form the Heth plateau from the rubble. The dwarves living in the mountains found their homes torn apart and attacked back starting the war. Heth commanded the Earth elementals to defend her, it was only when she disappeared that the elementals returned to their plane and the war ended. As time passed the dwarves became fond of the plateau and the natural defenses it offered them, and coopted Heth Stonespeaker as a legendary dwarven figure.
+#+END_PAPERBOX
+ 
+*** The Seashield clan
+The Seashield Clan was established only 320 years ago at the end of the war against Orsina. During the war a group of clanless dwarves lead by Hygur 'the Salt King', at the time no more than a pirate, seized several ships from Orsina and formed an impromptu navy for Heth.
+The navy was crucial to several key battles in the war, and were rewarded by being united as the new Seashield clan with Hygur as it's leader. During the ceremony Hygur announced to the crowd in the Grand Forum of Heth City that any clanless dwarf will be accepted in his clan. As a result they rapidly grew in size and influence, especially in the two ports, Hethport and Eastcliff. What was intended by the king as a small kindness for a hundred dwarves ballooned into the largest clan with over ten thousand members.
+The Seashield Clan gained a reputation as new blood with less honour than the ancient clans, and are frequently snubbed in politics. 
+The Seashields are eager to prove themselves to the ancient clans of Heth. While many of the older generation of Seashields are satisfied with the honor of being made a clan, the younger generation who grew up as members of the clan are ambitious and want to garner the same respect as the other ancient clans.
+
+
+*** Other races in Heth.
+
+**** Humans
+Humans arrived on the Heth plateau shortly after it was formed, creating settlements and trading resources with the dwarves of heth city. The population of humans have swelled over the last thousand years and now they greatly outnumber the dwarves in Heth. Human commoners in Heth are happy with the way things are run so long as they are kept safe and the kingdom is at peace. Some human nobles are less pleased with their lack of influence over politics in Heth, but if the commoners are happy they will not be able to rally support to improve their station.
+
+**** Halflings
+Halflings are the third most numerous race in Heth after humans and Dwarves, they travelled to the plateau from Dore at a similar time to the humans arrival. They live happily among the humans and dwarves, but few halflings have any political significance.  
+
+**** Elves
+Elves are not very common in Heth, but they are respected where they are found.  
+
+**** Gnomes
+There are a few gnome settlements in the kingdom of Heth, and gnomes are treated well throughout the kingdom. 
+
+**** Other races
+It may be assumed that other races are not native to Heth, and while many travel through Heth depending on their appearance and rarity they may be treated with curiosity or hostility.
+
+** Cities and major settlements in Heth.
+*** Heth City
+
+*** Hethport
+Hethport is a major port  and the second city of Heth. It is on the west coast of the Heth plateau near the North border with Dole. 
+
+#+BEGIN_COMMENTBOX
+Approaching from the plateau adventurers will find themselves approaching an ornate towering cathedral to the god Lunar in an unimpressive settlement of mismatched houses, beyond the cathedral the land suddenly ends. The road turns and enters a vast hole in the earth which marks the start of the subterranean roads of Hethport, they service the city built into the two mile cliff face where the Heth plateau meets the sea. 
+
+Approaching from the sea adventurers will see a wall of black granite and quartz stretch into the sky, at night it will be speckled with light from windows and many lighthouses. Once close enough to see the detail of the cliff face hundreds of homes carved from the granite between outcrops of rock will become visible. Four bustling ports jut out from the cliff into the sea with dozens of ships sailing in and out of harbour. Further up the cliff a large domed building with two towers stands centrally on an outcrop of quartz, and to its left carved into a large diamond shape of rock, a mile high, is a colourful marketplace alive with movement. 
+#+END_COMMENTBOX
+
+*** Eastcliff
+*** Brentwood
+*** Broom
+*** The Ramp
+* Orsina
+
+* Dore
+
+* Lunara 
+
