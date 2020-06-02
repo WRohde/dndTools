@@ -3,8 +3,101 @@
 #+OPTIONS: bg:full justified:true toc:nil
 #+LATEX: \tableofcontents
 * The world of Nightbloom
-** Deities
+** Peculiarities of Nightbloom
+The moon was destoyed close to a millenia ago. The nights would be pitch dark, but after dusk the flowers of the world open and give off bioluminescent dim light, the colour of the plants are vibrant and varied. People refer to the time just after sunset when the plants open their flowers as the Nightbloom. 
 
+The most commonly worshipped god in the world is the dragon god Lunar, a vast serpentine dragon far larger in size than the moon was, it flies in an endless orbit around the sun in the opposite direction to the planet and passes the planet twice a year, these passings are known as the Lunarpass. Each lasts a week, there is a "dawn Lunarpass" where the dragon passes behind the planet and reflects light like a moon, and a dusk Lunarpass where the dragon passes in front of the planet eclipsing the sun. Both are intensely celebrated holy times with several feasts. 
+
+** The Streak
+The Streak is a thin continent stretching from the far North into the Southern Hemisphere. At the equator a band of mountains stretches across its width, the tallest mountain is truncated with the revered City State of Lunara built at its peak. The mountains are within the Heth plateau, a vast landscape miles above sea level, most of the plateau is the Kingdom of Heth but the South side is held by Orsina which stretches beyond the plateau to the South of the Streak. North of the Heth Plateau is Dore, an arable country held together by a web of alliances and treaties between its Feudal Lords.
+
+** Deities in Nightbloom
+There are many deities in the world of Nighbloom. This list contains those which someone learned in religion may be aware of and their alignment, suggested domain for clerics, and religious symbol. The most commonly worshipped God is Lunar, the god of protection, a vast dragon god which orbits the sun crossing close to the planet twice a year in events known as the dawn and dusk lunarpasses.
+#+BEGIN_SUBTITLE
+Chauntea, god of nature
+N, Nature, A unicorn's head with roses in place of eyes
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Eldath, god of peace
+NG, Life,Nature, Waterfall into a still pool,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Ilmater, god of endurance
+LG, Life, Hands bound at the wrist with a red cord,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Lathander, god of birth and renewal
+NG, Life,Light, Road travelling into a sunrise,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Lliira, god of joy
+CG, Life, Triangle of three six-pointed stars,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Lunar, god of protection
+N, Life,Light, Golden serpentine dragon,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Oghma, god of knowledge
+N, knowledge, blank scroll,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Savras, god of fate
+LN, knowledge, crystal ball with many eyes,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Sune, god of love
+CG, Life, Lower half of two kissing faces,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Tymora, god of luck
+CN, Trickery, Face-up coin,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Torm, god of courage
+N, war, Flaming sword,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Tyr, god of justice
+LG, war, Balanced scales on a warhammer,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Umberlee, god of the sea
+CN, tempest, Wave curling,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Bane, god of tyranny
+LE, war, upright hand thumb and fingers together,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Bhaal, god of murder
+NE, Death, Skull surrounded by a ring of blood,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Myrkul, god of death
+LE, Death, human skull,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Sulf, god of madness
+CE, trickery, red star,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Talos, god of storms
+CE, Tempest, three lightning bolts radiating from a centre point,
+#+END_SUBTITLE
+
+** The Calendar
+There are eight months in the year, each has six weeks, and there are two Lunarpasses which are each one week. For a total of 50 weeks and 350 days per year.\\
+Month of Lathander - 42 days of spring\\
+Dusk Lunarpass - 7 days\\
+Month of Eldath - 42 days of spring\\
+Month of Lliira - 42 days of summer\\
+Month of Chauntea - 42 days of summer\\
+Month of Oghma - 42 days of autumn\\
+Dawn Lunarpass - 7 days\\ 
+Month of Myrkul - 42 days of autumn\\ 
+Month of Savras - 42 days of winter\\
+Month of Ilmater - 42 days of winter\\
 
 
 * The kingdom of Heth
@@ -79,6 +172,50 @@ Approaching from the sea adventurers will see a wall of black granite and quartz
 *** Broom
 *** The Ramp
 * Orsina
+Orsina is a distinct from the other countries of the Streak in their approach to Death. Orsinans view it as a minor obstacle, animated dead work the fields, the corpses of ancestors are consulted for their experience, those that die before old age takes them are brought back to life if they can afford it. Those that master death and become immortal liches join the lich court in ruling the country.\\
+
+
+The principle deity in Orsina is Myrkul, god of death. Lathander, god of birth and renewal is commonly worshipped, as is Lunar.
+
+** The Lich Court and Orsinan law
+Orsina is lead by the nine members of the secretive lich court. The council as a whole acts as a lawful good entity for the benefit of Orsina, but the alignment of the liches on the council varies greatly.\\
+
+The law in Orsina is absolute and even minor crime can see a pickpocket or vandal in jail. For those in jail, lots are allocated proportionate to the crimes commited and drawn each month. Those selected are executed and their souls consumed to sustain the phylacterys and immortality of the lich court. 
+
+** The pursuit of magic
+To excel in Orsinan society one must have magical talents, those with no capability are treated as second class citizens and rarely live in cities. As a result magic is pursued fiercely, parents expose their babies to the dangers of naturally occuring extraplanar portals to induce sorcerous talents, those who can learn are taught wizardry, others pursue power from the gods, nature or bargains with otherwordly beings. Few have the talents to learn more than first level spells, but any evidence of magic is enough to avoid being outcast.
+
+** Races in Orsina
+*** Humans
+Humans make up the majority of Orsina, they are based mainly in cities. Many of them carry the blood of fiends, dragons and other extra planar creatures from generations of pursuing magic. Sorcerors are more coming as a result, as are Tiefling.
+
+*** Orc
+In the wilderness of Orsina tribes of Orc live unimpaired by the rule of the lich court. Those without magical talent sometimes settle in these orc communities where strength is paramount.
+
+*** Half-orc
+Half-orc are common throughout Orsina due to the frequent intermingling between Orc and human populations. 
+
+*** Drow
+Orsina has a strong relationship with its underdark, Drow are frequently found in the cities of Orsina.
+
+*** Tiefling
+In Orsina Tiefling are uncommon, but the pursuit of magic has made their birth an accepted occurence. Unlike other countries where a tiefling baby may be abandoned or treated poorly, in Orsina a tiefling baby may be cherished a parent safe in the knowledge that the child has a least some magical talent.
+
+*** Dwarf
+Some Dwarves still live in the south of the Heth plateau, but most retreated into the Kingdom of Heth during the war between Orsina and Heth. Even fewer dwarves have migrated deeper into Orsina moving into some of the cities. 
+
+*** Other races
+Orsina is home to many other races, due to the wide variety few are truly treated as outsiders.
+
+** Cities and major settlements in Orsina
+*** Spirehold
+*** City of Graves
+*** The Fragile Boundary
+The Fragile Boundary is a wasteland where interplanar portals occur naturally. Orsinans pilgrimage here to expose their children to the planes in the hope that sorcerous talents will be induced in them.  
+#+BEGIN_SUBTITLE
+Winnick
+The town Winnick is the closest village to the Fragile Boundary, it is largely sustained by the pilgrims who stay here before venturing into the wasteland with their young.
+#+END_SUBTITLE
 
 * Dore
 
