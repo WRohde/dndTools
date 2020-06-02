@@ -218,6 +218,15 @@ The town Winnick is the closest village to the Fragile Boundary, it is largely s
 #+END_SUBTITLE
 
 * Dore
+Dore is a land of sprawling fields and rolling hills, fertile land and profitable farming, and the politics of ambitious feudal lords. To the South Dore ends in a sheer wall of stone stretching up to the Heth plateau, slopes of rubble and scree climb thousands of feet up the cliff face but, with the exception of The Ramp by Scree Town, all finish more than a mile from the top. Further North, a canal runs across the centre of Dore offering the only shortcut for seafaring vessels to cross the Streak without sailing thousands of miles South to travel East below Orsina. Further North still Dore gives way to the Rocky Mountains and beyond them just icy wilderness.
+
+** Cities and major settlements in Dore
+*** Scree Town
+Scree Town is at the base of The Ramp, its ruled by Lady Stone an elf noble. The duty taxes on goods traveling across the ramp have made Lady Stone one of the richest nobles in Dore. The hefty taxes drive many to smuggle goods and the criminals participating in this trade have made Scree Town infamously unsafe for those travelling without protection.
+*** The lock and Weir
+The lock and Weir is 
 
 * Lunara 
+Lunara was founded shortly after the dragon god Lunar first appeared in the material plane, it is the seat of the Lunar church. A group of devout elven wizards aimed to find an ideal location to observe the Lunarpass. The best visibility was near the equator and the wizards used their magic to cleave off the top of the tallest mountain of the Endless Peaks and established the city state of Lunara there. Since then Lunara has prospered as pilgrims visit the city to witness the Lunarpass from the Grand Cathedral, and students travel to attend the College Arcana.\\
+
 
