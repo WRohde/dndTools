@@ -109,7 +109,7 @@ The plateau is littered with relics from its history, menhirs stand 20ft tall al
 Despite being close to the equator the climate in Heth varies between lukewarm in Summer, and freezing cold and snowy in Winter. 
 
 ** The Dwarf clans and politics in Heth
-The current monarch is Scoria Rockblood ~200 years old female Mountain Dwarf, she desires to maintain peace with Orsina but many of the clan elders in her court want to reclaim The major city on the plateau is Heth, a dwarven settlement carved into the side of the montains. The most common races are Dwarf and Human. 
+The current monarch is Queen Scoria Rockblood, a Mountain Dwarf. She desires to maintain peace with Orsina but many of the clan elders in her court want to reclaim the South of the Heth Plateau from Orsina.\\ 
 
 The Rockblood Clan claim to be descended from Heth Stonespeaker. A legendary figure who, according to Dwarf records, in an ancient war between dwarves and earth elementals tricked the elementals into sundering half of the endless peaks and forming the debris into the Heth Plateau. In Legends Heth Stonespeaker sacrified themselves to end the war. 
 
@@ -136,6 +136,9 @@ The Seashield Clan was established only 320 years ago at the end of the war agai
 The navy was crucial to several key battles in the war, and were rewarded by being united as the new Seashield clan with Hygur as it's leader. During the ceremony Hygur announced to the crowd in the Grand Forum of Heth City that any clanless dwarf will be accepted in his clan. As a result they rapidly grew in size and influence, especially in the two ports, Hethport and Eastcliff. What was intended by the king as a small kindness for a hundred dwarves ballooned into the largest clan with over ten thousand members.
 The Seashield Clan gained a reputation as new blood with less honour than the ancient clans, and are frequently snubbed in politics. 
 The Seashields are eager to prove themselves to the ancient clans of Heth. While many of the older generation of Seashields are satisfied with the honor of being made a clan, the younger generation who grew up as members of the clan are ambitious and want to garner the same respect as the other ancient clans.
+
+*** The lost clan
+During the war with Orsina the Blackstone clan who were based in the South of the Heth Plateau were decimated. Many of those that survived fled North, some with family ties joined the other ancient clans, others became clanless eventually joining the Seashields. Those that did not flee were captured by Orsina, and after the war returned to their homes in the South of the Heth plateau. 
 
 
 *** Other races in Heth.
@@ -218,15 +221,44 @@ The town Winnick is the closest village to the Fragile Boundary, it is largely s
 #+END_SUBTITLE
 
 * Dore
-Dore is a land of sprawling fields and rolling hills, fertile land and profitable farming, and the politics of ambitious feudal lords. To the South Dore ends in a sheer wall of stone stretching up to the Heth plateau, slopes of rubble and scree climb thousands of feet up the cliff face but, with the exception of The Ramp by Scree Town, all finish more than a mile from the top. Further North, a canal runs across the centre of Dore offering the only shortcut for seafaring vessels to cross the Streak without sailing thousands of miles South to travel East below Orsina. Further North still Dore gives way to the Rocky Mountains and beyond them just icy wilderness.
+Dore is a land of sprawling fields and rolling hills, fertile land and profitable farming, and the politics of ambitious feudal lords. To the South Dore ends in a sheer wall of stone stretching up to the Heth plateau, slopes of rubble and scree climb thousands of feet up the cliff face but, with the exception of The Ramp by Scree Town, all finish more than a mile from the top. Further North, a canal runs across the lowlands at the centre of Dore offering the only shortcut for seafaring vessels to cross the Streak without sailing thousands of miles South to travel East below Orsina. Further North still Dore gives way to the Rocky Mountains and beyond them just icy wilderness.
+
+** Races in Dore
+*** Humans
+Humans are the dominant race in Dore, the majority of commoners and nobles are human.
+*** Halfling
+Halfling are the second most numerous race, but they are very under represented among the nobles.
+*** Half-elf
+As humans and Elves have lived alongside each other for millenia half-elf traits are common in Dore. The majority of half-elves are born from half-elf parents and live amongst the humans, few know their elvish ancestors.
+*** Elf
+There has been an Elf population in Dore for millenia. While the population of Elves in Dore is small amongst the nobles they are close in number to the humans.
+*** Gnome
+Scattered throughout Dore there are subtle gnome villages.
+*** Other races in Dore
+It may be assumed that other races are not native to Dore, and while many travel through Dore depending on their appearance and rarity they may be treated with curiosity or hostility.
 
 ** Cities and major settlements in Dore
 *** Scree Town
 Scree Town is at the base of The Ramp, its ruled by Lady Stone an elf noble. The duty taxes on goods traveling across the ramp have made Lady Stone one of the richest nobles in Dore. The hefty taxes drive many to smuggle goods and the criminals participating in this trade have made Scree Town infamously unsafe for those travelling without protection.
-*** The lock and Weir
-The lock and Weir is 
+
+#+Name: The lock and Weir
+#+BEGIN_PAPERBOX
+The lock and Weir is an infamous pub at the centre of the Dore canal. Boats passing through are charged a small fee, but queues of ships cause those who don't arrive early to stay overnight while the lockmen guide their ships through. The pub is independent of the nearby nobles, despite a lack of guard most know not to cause trouble at the Lock and Weir.  
+#+END_PAPERBOX
 
 * Lunara 
 Lunara was founded shortly after the dragon god Lunar first appeared in the material plane, it is the seat of the Lunar church. A group of devout elven wizards aimed to find an ideal location to observe the Lunarpass. The best visibility was near the equator and the wizards used their magic to cleave off the top of the tallest mountain of the Endless Peaks and established the city state of Lunara there. Since then Lunara has prospered as pilgrims visit the city to witness the Lunarpass from the Grand Cathedral, and students travel to attend the College Arcana.\\
 
+** Religion in Lunara
+While praying to gods other than Lunar is permitted in Lunara temples and shrines to other deities are banned. Iconography of other gods will be torn down if in public spaces, and those praying to other deities in public may be accosted by the devout of Lunar.
+
+** Races in Lunara
+*** Elf
+The Elf wizard that built Lunara brought with them their families, and over the years many more Elf pilgrims have journeyed to spend a century in the splendid city. Few elves intend to spend much of their life span here, but to a human the elves living in Dore seem to be a permanent fixture
+*** Humans
+Humans are the dominant race in Dore, the majority of commoners and nobles are human.
+*** Half-elf
+Where humans and elves live amongst each other there are always half-elves. In Lunara where the elves are very much temporarily in residence half-elves are frequently abandoned by their elven parent. Some unintentionally as an elf returns home for decades or centuries before returning to see that their offspring has left or died, but many elves accept as they leave that they will not see their child again.
+*** Other races in Lunara
+Many races make the pilgrimage to Lunara, but those that aren't human or elf will be assumed to be pilgrims by those that don't know them.
 
