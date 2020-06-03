@@ -1,0 +1,264 @@
+#+TITLE: Nightbloom
+#+LATEX_CLASS: dnd
+#+OPTIONS: bg:full justified:true toc:nil
+#+LATEX: \tableofcontents
+* The world of Nightbloom
+** Peculiarities of Nightbloom
+The moon was destoyed close to a millenia ago. The nights would be pitch dark, but after dusk the flowers of the world open and give off bioluminescent dim light, the colour of the plants are vibrant and varied. People refer to the time just after sunset when the plants open their flowers as the Nightbloom. 
+
+The most commonly worshipped god in the world is the dragon god Lunar, a vast serpentine dragon far larger in size than the moon was, it flies in an endless orbit around the sun in the opposite direction to the planet and passes the planet twice a year, these passings are known as the Lunarpass. Each lasts a week, there is a "dawn Lunarpass" where the dragon passes behind the planet and reflects light like a moon, and a dusk Lunarpass where the dragon passes in front of the planet eclipsing the sun. Both are intensely celebrated holy times with several feasts. 
+
+** The Streak
+The Streak is a thin continent stretching from the far North into the Southern Hemisphere. At the equator a band of mountains stretches across its width, the tallest mountain is truncated with the revered City State of Lunara built at its peak. The mountains are within the Heth plateau, a vast landscape miles above sea level, most of the plateau is the Kingdom of Heth but the South side is held by Orsina which stretches beyond the plateau to the South of the Streak. North of the Heth Plateau is Dore, an arable country held together by a web of alliances and treaties between its Feudal Lords.
+
+** Deities in Nightbloom
+There are many deities in the world of Nighbloom. This list contains those which someone learned in religion may be aware of and their alignment, suggested domain for clerics, and religious symbol. The most commonly worshipped God is Lunar, the god of protection, a vast dragon god which orbits the sun crossing close to the planet twice a year in events known as the dawn and dusk lunarpasses.
+#+BEGIN_SUBTITLE
+Chauntea, god of nature
+N, Nature, A unicorn's head with roses in place of eyes
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Eldath, god of peace
+NG, Life,Nature, Waterfall into a still pool,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Ilmater, god of endurance
+LG, Life, Hands bound at the wrist with a red cord,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Lathander, god of birth and renewal
+NG, Life,Light, Road travelling into a sunrise,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Lliira, god of joy
+CG, Life, Triangle of three six-pointed stars,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Lunar, god of protection
+N, Life,Light, Golden serpentine dragon,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Oghma, god of knowledge
+N, knowledge, blank scroll,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Savras, god of fate
+LN, knowledge, crystal ball with many eyes,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Sune, god of love
+CG, Life, Lower half of two kissing faces,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Tymora, god of luck
+CN, Trickery, Face-up coin,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Torm, god of courage
+N, war, Flaming sword,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Tyr, god of justice
+LG, war, Balanced scales on a warhammer,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Umberlee, god of the sea
+CN, tempest, Wave curling,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Bane, god of tyranny
+LE, war, upright hand thumb and fingers together,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Bhaal, god of murder
+NE, Death, Skull surrounded by a ring of blood,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Myrkul, god of death
+LE, Death, human skull,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Sulf, god of madness
+CE, trickery, red star,
+#+END_SUBTITLE
+#+BEGIN_SUBTITLE
+Talos, god of storms
+CE, Tempest, three lightning bolts radiating from a centre point,
+#+END_SUBTITLE
+
+** The Calendar
+There are eight months in the year, each has six weeks, and there are two Lunarpasses which are each one week. For a total of 50 weeks and 350 days per year.\\
+Month of Lathander - 42 days of spring\\
+Dusk Lunarpass - 7 days\\
+Month of Eldath - 42 days of spring\\
+Month of Lliira - 42 days of summer\\
+Month of Chauntea - 42 days of summer\\
+Month of Oghma - 42 days of autumn\\
+Dawn Lunarpass - 7 days\\ 
+Month of Myrkul - 42 days of autumn\\ 
+Month of Savras - 42 days of winter\\
+Month of Ilmater - 42 days of winter\\
+
+
+* The kingdom of Heth
+** The Heth Plateau
+The heth plateau is a vast unnatural plateau in the continent of the Streak. At the centre of The Heth Plateau stretch the endless peaks, and to the east and west it abruptly ends in cliffs miles high as it reaches the sea. All but the South of the plateau is the kingdom of Heth, a dwarven country ruled by the Rockblood clan for the last 800 years, the South side of the Heth plateau which was captured by Orsina, a country which occupies the South of the Streak, during a war 320 years ago. 
+
+The plateau is littered with relics from its history, menhirs stand 20ft tall along roads, vast megalithic towers of stone can be seen precariously balanced on hills where they have remained for millenia. Galeb Duhr and other earth elementals wander areas where battles were fought between elementals and dwarves in ancient times.
+
+Despite being close to the equator the climate in Heth varies between lukewarm in Summer, and freezing cold and snowy in Winter. 
+
+** The Dwarf clans and politics in Heth
+The current monarch is Queen Scoria Rockblood, a Mountain Dwarf. She desires to maintain peace with Orsina but many of the clan elders in her court want to reclaim the South of the Heth Plateau from Orsina.\\ 
+
+The Rockblood Clan claim to be descended from Heth Stonespeaker. A legendary figure who, according to Dwarf records, in an ancient war between dwarves and earth elementals tricked the elementals into sundering half of the endless peaks and forming the debris into the Heth Plateau. In Legends Heth Stonespeaker sacrified themselves to end the war. 
+
+*** The Ancient Clans
+**** The Rockblood clan
+
+The Rockbloods are the royal clan. They have ruled the Kingdom of Heth for the last 800 years. The other clans have seemingly accepted that the royal line is passed down only this family for the past 4 generations, after all the ancient clans are so closely interrelated that no ruler has lacked the blood of at least one other clan.
+**** The Whitemetal Clan
+The whitemetal clan are a metalworking family. They are very invested in the politics of Heth, and very proud of their status. They are the largest of the ancient clans, and second in influence to the Rockblood clans.
+
+**** The Stoneshaper Clan
+The Stoneshaper Clan specialise in the cutting of gems. They are, to generalise, haughty towards clanless dwarves, half-orcs, gnomes, and commoners. They have never officialy accepted the Seashield clan.
+
+**** The Frostbeard Clan
+The Frostbear Clan involve themselves little in politics, they mostly live in secluded settlements in the Endless Peaks, where they practice magic and enchantment.
+
+#+Name: Heth Stonespeaker
+#+BEGIN_PAPERBOX
+Heth Stonespeaker was a powerful Tiefling sorcerer, testing the limits of her abilities she traveled to the plane of Earth and tricked an army of elementals into returning with her to the material plane. She persuaded them to destroy much of the Endless Peaks and form the Heth plateau from the rubble. The dwarves living in the mountains found their homes torn apart and attacked back starting the war. Heth commanded the Earth elementals to defend her, it was only when she disappeared that the elementals returned to their plane and the war ended. As time passed the dwarves became fond of the plateau and the natural defenses it offered them, and coopted Heth Stonespeaker as a legendary dwarven figure.
+#+END_PAPERBOX
+ 
+*** The Seashield clan
+The Seashield Clan was established only 320 years ago at the end of the war against Orsina. During the war a group of clanless dwarves lead by Hygur 'the Salt King', at the time no more than a pirate, seized several ships from Orsina and formed an impromptu navy for Heth.
+The navy was crucial to several key battles in the war, and were rewarded by being united as the new Seashield clan with Hygur as it's leader. During the ceremony Hygur announced to the crowd in the Grand Forum of Heth City that any clanless dwarf will be accepted in his clan. As a result they rapidly grew in size and influence, especially in the two ports, Hethport and Eastcliff. What was intended by the king as a small kindness for a hundred dwarves ballooned into the largest clan with over ten thousand members.
+The Seashield Clan gained a reputation as new blood with less honour than the ancient clans, and are frequently snubbed in politics. 
+The Seashields are eager to prove themselves to the ancient clans of Heth. While many of the older generation of Seashields are satisfied with the honor of being made a clan, the younger generation who grew up as members of the clan are ambitious and want to garner the same respect as the other ancient clans.
+
+*** The lost clan
+During the war with Orsina the Blackstone clan who were based in the South of the Heth Plateau were decimated. Many of those that survived fled North, some with family ties joined the other ancient clans, others became clanless eventually joining the Seashields. Those that did not flee were captured by Orsina, and after the war returned to their homes in the South of the Heth plateau. 
+
+
+*** Other races in Heth.
+
+**** Humans
+Humans arrived on the Heth plateau shortly after it was formed, creating settlements and trading resources with the dwarves of heth city. The population of humans have swelled over the last thousand years and now they greatly outnumber the dwarves in Heth. Human commoners in Heth are happy with the way things are run so long as they are kept safe and the kingdom is at peace. Some human nobles are less pleased with their lack of influence over politics in Heth, but if the commoners are happy they will not be able to rally support to improve their station.
+
+**** Halflings
+Halflings are the third most numerous race in Heth after humans and Dwarves, they travelled to the plateau from Dore at a similar time to the humans arrival. They live happily among the humans and dwarves, but few halflings have any political significance.  
+
+**** Elves
+Elves are not very common in Heth, but they are respected where they are found.  
+
+**** Gnomes
+There are a few gnome settlements in the kingdom of Heth, and gnomes are treated well throughout the kingdom. 
+
+**** Other races
+It may be assumed that other races are not native to Heth, and while many travel through Heth depending on their appearance and rarity they may be treated with curiosity or hostility.
+
+** Cities and major settlements in Heth.
+*** Heth City
+
+*** Hethport
+Hethport is a major port  and the second city of Heth. It is on the west coast of the Heth plateau near the North border with Dole. 
+
+#+BEGIN_COMMENTBOX
+Approaching from the plateau adventurers will find themselves approaching an ornate towering cathedral to the god Lunar in an unimpressive settlement of mismatched houses, beyond the cathedral the land suddenly ends. The road turns and enters a vast hole in the earth which marks the start of the subterranean roads of Hethport, they service the city built into the two mile cliff face where the Heth plateau meets the sea. 
+
+Approaching from the sea adventurers will see a wall of black granite and quartz stretch into the sky, at night it will be speckled with light from windows and many lighthouses. Once close enough to see the detail of the cliff face hundreds of homes carved from the granite between outcrops of rock will become visible. Four bustling ports jut out from the cliff into the sea with dozens of ships sailing in and out of harbour. Further up the cliff a large domed building with two towers stands centrally on an outcrop of quartz, and to its left carved into a large diamond shape of rock, a mile high, is a colourful marketplace alive with movement. 
+#+END_COMMENTBOX
+
+*** Eastcliff
+*** Brentwood
+*** Broom
+*** The Ramp
+* Orsina
+Orsina is a distinct from the other countries of the Streak in their approach to Death. Orsinans view it as a minor obstacle, animated dead work the fields, the corpses of ancestors are consulted for their experience, those that die before old age takes them are brought back to life if they can afford it. Those that master death and become immortal liches join the lich court in ruling the country.\\
+
+
+The principle deity in Orsina is Myrkul, god of death. Lathander, god of birth and renewal is commonly worshipped, as is Lunar.
+
+** The Lich Court and Orsinan law
+Orsina is lead by the nine members of the secretive lich court. The council as a whole acts as a lawful good entity for the benefit of Orsina, but the alignment of the liches on the council varies greatly.\\
+
+The law in Orsina is absolute and even minor crime can see a pickpocket or vandal in jail. For those in jail, lots are allocated proportionate to the crimes commited and drawn each month. Those selected are executed and their souls consumed to sustain the phylacterys and immortality of the lich court. 
+
+** The pursuit of magic
+To excel in Orsinan society one must have magical talents, those with no capability are treated as second class citizens and rarely live in cities. As a result magic is pursued fiercely, parents expose their babies to the dangers of naturally occuring extraplanar portals to induce sorcerous talents, those who can learn are taught wizardry, others pursue power from the gods, nature or bargains with otherwordly beings. Few have the talents to learn more than first level spells, but any evidence of magic is enough to avoid being outcast.
+
+** Races in Orsina
+*** Humans
+Humans make up the majority of Orsina, they are based mainly in cities. Many of them carry the blood of fiends, dragons and other extra planar creatures from generations of pursuing magic. Sorcerors are more coming as a result, as are Tiefling.
+
+*** Orc
+In the wilderness of Orsina tribes of Orc live unimpaired by the rule of the lich court. Those without magical talent sometimes settle in these orc communities where strength is paramount.
+
+*** Half-orc
+Half-orc are common throughout Orsina due to the frequent intermingling between Orc and human populations. 
+
+*** Drow
+Orsina has a strong relationship with its underdark, Drow are frequently found in the cities of Orsina.
+
+*** Tiefling
+In Orsina Tiefling are uncommon, but the pursuit of magic has made their birth an accepted occurence. Unlike other countries where a tiefling baby may be abandoned or treated poorly, in Orsina a tiefling baby may be cherished a parent safe in the knowledge that the child has a least some magical talent.
+
+*** Dwarf
+Some Dwarves still live in the south of the Heth plateau, but most retreated into the Kingdom of Heth during the war between Orsina and Heth. Even fewer dwarves have migrated deeper into Orsina moving into some of the cities. 
+
+*** Other races
+Orsina is home to many other races, due to the wide variety few are truly treated as outsiders.
+
+** Cities and major settlements in Orsina
+*** Spirehold
+*** City of Graves
+*** The Fragile Boundary
+The Fragile Boundary is a wasteland where interplanar portals occur naturally. Orsinans pilgrimage here to expose their children to the planes in the hope that sorcerous talents will be induced in them.  
+#+BEGIN_SUBTITLE
+Winnick
+The town Winnick is the closest village to the Fragile Boundary, it is largely sustained by the pilgrims who stay here before venturing into the wasteland with their young.
+#+END_SUBTITLE
+
+* Dore
+Dore is a land of sprawling fields and rolling hills, fertile land and profitable farming, and the politics of ambitious feudal lords. To the South Dore ends in a sheer wall of stone stretching up to the Heth plateau, slopes of rubble and scree climb thousands of feet up the cliff face but, with the exception of The Ramp by Scree Town, all finish more than a mile from the top. Further North, a canal runs across the lowlands at the centre of Dore offering the only shortcut for seafaring vessels to cross the Streak without sailing thousands of miles South to travel East below Orsina. Further North still Dore gives way to the Rocky Mountains and beyond them just icy wilderness.
+
+** Races in Dore
+*** Humans
+Humans are the dominant race in Dore, the majority of commoners and nobles are human.
+*** Halfling
+Halfling are the second most numerous race, but they are very under represented among the nobles.
+*** Half-elf
+As humans and Elves have lived alongside each other for millenia half-elf traits are common in Dore. The majority of half-elves are born from half-elf parents and live amongst the humans, few know their elvish ancestors.
+*** Elf
+There has been an Elf population in Dore for millenia. While the population of Elves in Dore is small amongst the nobles they are close in number to the humans.
+*** Gnome
+Scattered throughout Dore there are subtle gnome villages.
+*** Other races in Dore
+It may be assumed that other races are not native to Dore, and while many travel through Dore depending on their appearance and rarity they may be treated with curiosity or hostility.
+
+** Cities and major settlements in Dore
+*** Scree Town
+Scree Town is at the base of The Ramp, its ruled by Lady Stone an elf noble. The duty taxes on goods traveling across the ramp have made Lady Stone one of the richest nobles in Dore. The hefty taxes drive many to smuggle goods and the criminals participating in this trade have made Scree Town infamously unsafe for those travelling without protection.
+
+#+Name: The lock and Weir
+#+BEGIN_PAPERBOX
+The lock and Weir is an infamous pub at the centre of the Dore canal. Boats passing through are charged a small fee, but queues of ships cause those who don't arrive early to stay overnight while the lockmen guide their ships through. The pub is independent of the nearby nobles, despite a lack of guard most know not to cause trouble at the Lock and Weir.  
+#+END_PAPERBOX
+
+* Lunara 
+Lunara was founded shortly after the dragon god Lunar first appeared in the material plane, it is the seat of the Lunar church. A group of devout elven wizards aimed to find an ideal location to observe the Lunarpass. The best visibility was near the equator and the wizards used their magic to cleave off the top of the tallest mountain of the Endless Peaks and established the city state of Lunara there. Since then Lunara has prospered as pilgrims visit the city to witness the Lunarpass from the Grand Cathedral, and students travel to attend the College Arcana.\\
+
+** Religion in Lunara
+While praying to gods other than Lunar is permitted in Lunara temples and shrines to other deities are banned. Iconography of other gods will be torn down if in public spaces, and those praying to other deities in public may be accosted by the devout of Lunar.
+
+** Races in Lunara
+*** Elf
+The Elf wizard that built Lunara brought with them their families, and over the years many more Elf pilgrims have journeyed to spend a century in the splendid city. Few elves intend to spend much of their life span here, but to a human the elves living in Dore seem to be a permanent fixture
+*** Humans
+Humans are the dominant race in Dore, the majority of commoners and nobles are human.
+*** Half-elf
+Where humans and elves live amongst each other there are always half-elves. In Lunara where the elves are very much temporarily in residence half-elves are frequently abandoned by their elven parent. Some unintentionally as an elf returns home for decades or centuries before returning to see that their offspring has left or died, but many elves accept as they leave that they will not see their child again.
+*** Other races in Lunara
+Many races make the pilgrimage to Lunara, but those that aren't human or elf will be assumed to be pilgrims by those that don't know them.
+
