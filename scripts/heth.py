@@ -66,7 +66,6 @@ hethEncounters = randomTable([campRandomEncounters,hethWildernessEncounters])
 #heth urban encounters
 pickpocketEncounters = randomTableFromCSV('../config/heth/pickpocketEncounters.csv')
 
-
 hethState = finiteAutomaton.finiteAutomaton()
 
 def locationHub(x):
