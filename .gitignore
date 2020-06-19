@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# latex and pdf outputs from dnd documentation
+.pdf
+.tex

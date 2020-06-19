@@ -2,6 +2,8 @@ import sys
 import dndTools
 from dndTools import randomTable,randomTableFromCSV
 import finiteAutomaton
+import timos
+import pickle
 
 
 def hethWeather(season):
@@ -51,24 +53,27 @@ def hethWeather(season):
         print('the weather is {0}'.format(weather()))
 
 
-#heth encounters
-passerbyEncounters = randomTableFromCSV('../config/passerbyEncounters.csv')
-faunaEncounters = randomTableFromCSV('../config/faunaEncounters.csv')
-floraEncounters = randomTableFromCSV('../config/floraEncounters.csv')
-intrigueEncounters = randomTableFromCSV('../config/intrigueEncounters.csv')
-humanoidThreatEncounters = randomTableFromCSV('../config/humanoidThreatEncounters.csv')
-threatEncounters = randomTableFromCSV('../config/threatEncounters.csv')
-campRandomEncounters = randomTableFromCSV('../config/campEncounters.csv')
+#heth wilderness encounters
+passerbyEncounters = randomTableFromCSV('../config/heth/passerbyEncounters.csv')
+faunaEncounters = randomTableFromCSV('../config/heth/faunaEncounters.csv')
+floraEncounters = randomTableFromCSV('../config/heth/floraEncounters.csv')
+intrigueEncounters = randomTableFromCSV('../config/heth/intrigueEncounters.csv')
+humanoidThreatEncounters = randomTableFromCSV('../config/heth/humanoidThreatEncounters.csv')
+threatEncounters = randomTableFromCSV('../config/heth/threatEncounters.csv')
+campRandomEncounters = randomTableFromCSV('../config/heth/campEncounters.csv')
 hethWildernessEncounters = randomTable([passerbyEncounters,faunaEncounters,floraEncounters,intrigueEncounters,
                                     humanoidThreatEncounters,threatEncounters])
 hethEncounters = randomTable([campRandomEncounters,hethWildernessEncounters])
+
+#heth urban encounters
+pickpocketEncounters = randomTableFromCSV('../config/heth/pickpocketEncounters.csv')
 
 hethState = finiteAutomaton.finiteAutomaton()
 
 def locationHub(x):
     newState = 'locationHub'
     
-    options_string = '0: heth wilderness\t1: exit\n'
+    options_string = '0: heth wilderness\t1: urban\t2: exit\n'
     try:
         choice = int(input(options_string))
     except:
@@ -77,11 +82,35 @@ def locationHub(x):
     if (choice == 0):
         newState = 'hethWilderness'
     elif (choice ==1):
+        newState = 'urban'
+    elif (choice ==2):
         newState = 'endState'
     else:
         print('input was not recognised')
     return(newState,0) 
+
+def urban(x):
+    newState = 'urban'
+    cargo = 1
     
+    options_string = 'Urban location \n0: weather\t1: random encounter\t2: pickpocket encounter\t3: change location\n'
+    try:
+        choice = int(input(options_string))
+    except:
+        choice = -1
+        
+    if (choice == 0): #weather
+        hethWeather('dawn')
+    elif (choice == 1): #random encounter
+        print('not yet implemented')
+    elif (choice == 2): #random camp encounter
+        print(pickpocketEncounters())
+    elif (choice == 3): #change location
+        newState = 'locationHub'
+    else:
+        print('input was not recognised')
+
+    return(newState,cargo)
 
 def hethWilderness(x):
     newState = 'hethWilderness'
@@ -94,7 +123,7 @@ def hethWilderness(x):
         choice = -1
         
     if (choice == 0): #weather
-        hethWeather('oghma')
+        hethWeather('dawn')
     elif (choice == 1): #random encounter
         print(hethWildernessEncounters())
     elif (choice == 2): #random camp encounter
@@ -105,7 +134,7 @@ def hethWilderness(x):
         newState = 'travelWilderness'
         cargo = [int(input('how many days?\n')),input('what month?\n'),0]
     else:
-        print('iniput was not recognised')
+        print('input was not recognised')
         
     return(newState,cargo) 
 
@@ -156,6 +185,7 @@ def endState(x):
 hethState.add_state('locationHub',locationHub)   
 hethState.add_state('hethWilderness',hethWilderness)
 hethState.add_state('travelWilderness',travelWilderness)
+hethState.add_state('urban',urban)
 hethState.add_state('endState',endState,end_state=1)
 hethState.set_start('locationHub')
 
@@ -164,3 +194,12 @@ def heth():
     launches the heth state machine
     """
     hethState.run(0)
+
+def timos(days = 1): #hacking with pickle
+    #read pickle
+    timos_traps_trinkets = pickle.load(open('../config/heth/timos.pkl','rb'))
+
+    timos_traps_trinkets(days)
+
+    #save changes:
+    pickle.dump(timos_traps_trinkets,open( '../config/heth/timos.pkl','wb'))

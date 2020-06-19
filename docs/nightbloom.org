@@ -3,13 +3,59 @@
 #+OPTIONS: bg:full justified:true toc:nil
 #+LATEX: \tableofcontents
 * The world of Nightbloom
+
 ** Peculiarities of Nightbloom
-The moon was destoyed close to a millenia ago. The nights would be pitch dark, but after dusk the flowers of the world open and give off bioluminescent dim light, the colour of the plants are vibrant and varied. People refer to the time just after sunset when the plants open their flowers as the Nightbloom. 
+The moon was destoyed close to a millenia ago. The nights would be pitch dark, but after dusk the flowers of the world begin to give off bioluminescent dim light, the colour of the plants are vibrant and varied. People refer to the time just after sunset when the plants open their flowers as the Nightbloom. 
 
-The most commonly worshipped god in the world is the dragon god Lunar, a vast serpentine dragon far larger in size than the moon was, it flies in an endless orbit around the sun in the opposite direction to the planet and passes the planet twice a year, these passings are known as the Lunarpass. Each lasts a week, there is a "dawn Lunarpass" where the dragon passes behind the planet and reflects light like a moon, and a dusk Lunarpass where the dragon passes in front of the planet eclipsing the sun. Both are intensely celebrated holy times with several feasts. 
+The most widely worshipped god in the world is Lunar, the god of protection. A vast serpentine dragon far larger in size than the moon was. Lunar flies in an endless orbit around the sun in the opposite direction to the planet and passes it twice a year. These week-long transits are known as the Lunarpasses. There is a Dawn Lunarpass in Spring where the dragon passes behind the planet, reflecting light like a moon, and a dusk Lunarpass where the dragon passes in front of the planet eclipsing the sun. 
 
-** The Streak
-The Streak is a thin continent stretching from the far North into the Southern Hemisphere. At the equator a band of mountains stretches across its width, the tallest mountain is truncated with the revered City State of Lunara built at its peak. The mountains are within the Heth plateau, a vast landscape miles above sea level, most of the plateau is the Kingdom of Heth but the South side is held by Orsina which stretches beyond the plateau to the South of the Streak. North of the Heth Plateau is Dore, an arable country held together by a web of alliances and treaties between its Feudal Lords.
+*** The Nightbloom
+Just after sunset the flowers begin to give off bioluminescent light in vibrant colours.
+- Individual flowers give off dim light for 1ft. In nonmagical darkness they are visible up to 300ft away.
+- In the spring and summer months forested areas are illuminated by countless flowers bathing the area in dim light.
+- In the autumn months few flowers are open in even forested areas, while in the Winter months nightbloom flowers are rare and notable.
+
+*** The Dawn Lunarpass
+The Dawn Lunarpass occurs in Autumn lasting for a week between the months of Oghma and Myrkul. Lunar the dragon god of protection passes outside of the planet. During this period the dragon is visible at night and reflects sunlight onto the surface of the world acting like a moon, the intensity of the light varies depending on which day. 
+- first day: The head of Lunar rises in the West shortly 4 hours after sunset. It casts dim light across the world.   
+- second day:  The head of Lunar rises in the West 2 hours after sunset, through the night the dragon continues to rise until half the body is visible. The dragon casts dim light
+- third day: The dragons head rises at sunset, most of the body of the dragon stretches over the sky throughout the night. The dragon casts Bright light across the world.
+- fourth day: The dragon is visible from shortly before Dusk, through the night the dragon rises. At midnight the full body of the dragon is visible, the head in the East, the tail in the West. Through the rest of the night the dragon passes over the horizon to the East. There is bright light all night.
+- fifth day: bright light
+- sixth day: dim light 
+- seventh day: dim light
+ 
+*** The Dusk Lunarpass
+The Dusk Lunarpass occurs in Spring lasting for a week between the months of Oghma and Myrkul. During this Period Lunar is in transit, eclipsing the sun. 
+- first day: The Sun is eclipsed as it rises. The eclipse ends around an hour after dawn.
+- second day: The Sun is eclipsed until noon. 
+- third day: The Sun is eclipsed until late afternoon, 3 hours before Sunset. 
+- fourth day: At the peak of the Dusk Lunarpass there is complete darkness for the full day.
+- fifth day: The eclipse begins two hours after Dawn.
+- sixth day: The eclipse begins at noon.
+- seventh day: The eclipse begins an hour before Sunset.
+
+#+NAME: The Nightbloom in the Dusk Lunarpass
+#+BEGIN_COMMENTBOX
+During the eclipses of the Dusk Lunarpass the nightbloom occurs even during the day. As a result forest or other heavily flowered areas are illuminated with dim light. On the fourth day, the peak of the Lunarpass, many flowers release feathered seed pods which glow and drift through the air. This is a moment of significance for those who worship nature.
+#+END_COMMENTBOX
+ 
+*** Resurrection variant rule
+Returning from the dead is not without its challenges. After a successful resurrection the resurrected individual 
+
+** The Nightbloom Calendar
+There are eight months in the year, each has six weeks, and there are two Lunarpasses which are each one week. For a total of 50 weeks and 350 days per year.\\
+Month of Lathander - 42 days of spring\\
+Dusk Lunarpass - 7 days\\
+Month of Eldath - 42 days of spring\\
+Month of Lliira - 42 days of summer\\
+Month of Chauntea - 42 days of summer\\
+Month of Oghma - 42 days of autumn\\
+Dawn Lunarpass - 7 days\\ 
+Month of Myrkul - 42 days of autumn\\ 
+Month of Savras - 42 days of winter\\
+Month of Ilmater - 42 days of winter\\
+
 
 ** Deities in Nightbloom
 There are many deities in the world of Nighbloom. This list contains those which someone learned in religion may be aware of and their alignment, suggested domain for clerics, and religious symbol. The most commonly worshipped God is Lunar, the god of protection, a vast dragon god which orbits the sun crossing close to the planet twice a year in events known as the dawn and dusk lunarpasses.
@@ -86,19 +132,9 @@ Talos, god of storms
 CE, Tempest, three lightning bolts radiating from a centre point,
 #+END_SUBTITLE
 
-** The Calendar
-There are eight months in the year, each has six weeks, and there are two Lunarpasses which are each one week. For a total of 50 weeks and 350 days per year.\\
-Month of Lathander - 42 days of spring\\
-Dusk Lunarpass - 7 days\\
-Month of Eldath - 42 days of spring\\
-Month of Lliira - 42 days of summer\\
-Month of Chauntea - 42 days of summer\\
-Month of Oghma - 42 days of autumn\\
-Dawn Lunarpass - 7 days\\ 
-Month of Myrkul - 42 days of autumn\\ 
-Month of Savras - 42 days of winter\\
-Month of Ilmater - 42 days of winter\\
 
+** The Streak
+The Streak is a thin continent stretching from the far North into the Southern Hemisphere. At the equator a band of mountains stretches across its width, the tallest mountain is truncated with the revered City State of Lunara built at its peak. The mountains are within the Heth plateau, a vast landscape miles above sea level, most of the plateau is the Kingdom of Heth but the South side is held by Orsina which stretches beyond the plateau to the South of the Streak. North of the Heth Plateau is Dore, an arable country held together by a web of alliances and treaties between its Feudal Lords.
 
 * The kingdom of Heth
 ** The Heth Plateau
