@@ -2,6 +2,8 @@ import sys
 import dndTools
 from dndTools import randomTable,randomTableFromCSV
 import finiteAutomaton
+import timos
+import pickle
 
 
 def hethWeather(season):
@@ -192,3 +194,12 @@ def heth():
     launches the heth state machine
     """
     hethState.run(0)
+
+def timos(days = 1): #hacking with pickle
+    #read pickle
+    timos_traps_trinkets = pickle.load(open('../config/heth/timos.pkl','rb'))
+
+    timos_traps_trinkets(days)
+
+    #save changes:
+    pickle.dump(timos_traps_trinkets,open( '../config/heth/timos.pkl','wb'))
