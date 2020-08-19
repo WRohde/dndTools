@@ -206,10 +206,28 @@ Approaching from the plateau adventurers will find themselves approaching an orn
 Approaching from the sea adventurers will see a wall of black granite and quartz stretch into the sky, at night it will be speckled with light from windows and many lighthouses. Once close enough to see the detail of the cliff face hundreds of homes carved from the granite between outcrops of rock will become visible. Four bustling ports jut out from the cliff into the sea with dozens of ships sailing in and out of harbour. Further up the cliff a large domed building with two towers stands centrally on an outcrop of quartz, and to its left carved into a large diamond shape of rock, a mile high, is a colourful marketplace alive with movement. 
 #+END_COMMENTBOX
 
+**** The Diamond Market
+A large diamond shaped market half a mile tall close to the centre of Hethport, formed from large terraced steps teeming with hundreds of market stalls. The walls of the market are impressive shops run by the Dwarven clans and other notable long standing shops, the stalls are of less repute and anyone has the right to sell goods there. Some of the notable shops and stalls of the Diamond Market are:
+- Stoneshaper's Gem Emporium. A clan shop run by Onyx Stoneshaper.
+- Waymore's Mystic Supplies. A black granite store with pearl inlay writing on its sign which matches that of the Magehall. This store is the commercial outlet for the magehall and is run by Waymore.
+- Whitemetal Smithy. A clan shop run by Oro Whitemetal. This store is quite expensive but the smiths here are very talented.
+- Tana Turen’s Tinctures. Apothecary run by Tana Turen, who is a female Forest Gnome. The walls on the inside of the store have illusions permanently cast on them so that the store appears to be in the clearing of a wood.
+- Wirrock's weapon imports. A large gazebo covers the stall with weapons stuffed in barrels and boxes labelled with various prices. Many weapons are available here, but the quality varies and weapons are often in barrels with incorrect pricing. 
+- Goris's Gnarly Garments. A large gazebo covers three long benches one with items for 5GP, one with items for 50GP. On each bench most of the armour is of an inferior quality not worth purchasing,  but a successful intelligence (investigation) check can find quality equipment for a low price.
+
+**** The Magehall 
+ A vast building of black granite with pearl filigree and a glass dome roof, the magehall of hethport is an ancient place for wizards to study magic, live and occasionally compete in tournaments. The magehall is considered one of the main defences of the city.
+**** Places to stay in Hethport
+- The Rusty Anchor
+- The Heartless Bastard
+ 
 *** Eastcliff
 *** Brentwood
 *** Broom
 *** The Ramp
+*** Villages of Heth
+**** Hermelin 
+Hermelin is a small village on the Heth plateau, the town is a predominantly human settlement built around an old farmhouse run by the Halfling Hermelin family who have lived there since the pre-lunar era. At some point a group of human druids established a shrine next to the farmhouse and established a village around it. After the arrival of Lunar a church to the god was built above the druidic shrine. The church is a tall wooden tower which tapers to a narrow point, there are two floors to the building, with the upper floor supported by ornate wooden pillars above the lower, the church is adorned with wooden scales. The buildings are wooden and stone. Three roads meet by the church in town, one heads west towards Hethport, one east towards Heth city, and one south but turns towards the South East and to Brentwood.
 * Orsina
 Orsina is a distinct from the other countries of the Streak in their approach to Death. Orsinans view it as a minor obstacle, animated dead work the fields, the corpses of ancestors are consulted for their experience, those that die before old age takes them are brought back to life if they can afford it. Those that master death and become immortal liches join the lich court in ruling the country.\\
 
@@ -298,3 +316,59 @@ Where humans and elves live amongst each other there are always half-elves. In L
 *** Other races in Lunara
 Many races make the pilgrimage to Lunara, but those that aren't human or elf will be assumed to be pilgrims by those that don't know them.
 
+
+* Appendix A: Characters
+
+This section lists characters in the Nightbloom world. The characters are sorted by location, some of them will be referenced in less detail in the earlier location descriptions.
+
+** Heth
+*** Hethport
+**** Oron Seashield.
+A hardworking, lawful dwarf of the Seashield clan. Oron is the head of the guard in Hethport and an influential member of his clan. He will do what it takes to keep Hethport safe, but his judgement may be clouded when the reputation of his clan is at stake.
+**** Onyx Stoneshaper. 
+Onyx runs the 'Stoneshaper Gem Emporium' in the Diamond Market, he has a gruff manner and is unimpressed by low value gems. He is passionate about rare gemstones and on the presentation of a unique or very rare gemstone he will eagerly try to purchase it.
+**** Waymore. 
+Waymore is a tall thin elf wizard. He runs 'Waymore's mystic Supplies' in the Diamond Market.
+**** Oro Whitemetal. 
+Runs the Whitemetal Smithy in the Diamond Market.
+**** Tana Turen. 
+Owner of 'Tana Turen's Tinctures', a female Forest Gnome.
+**** Wirrock
+A half-orc with a scar over one eye. Runs Wirrock's weapon imports.
+**** Goris 
+A gruff male dwarf. Runs Goris's Gnarly Garments.
+**** Harga
+A priest of the temple of Savras in Hethport.
+**** Douglas
+A wizard apprentice who fought at the docks against the vrock. 
+**** Wilda (deceased)
+A halfling ratcatcher in Hethport, killed by the cult of Narloc.
+**** Beowolf
+The head of the Magehall
+**** Elia Touchstone
+One of the archmages of the magehall, she is in charge of the security and combat departments of the magehall.
+**** Kneeve Seashield
+A member of the magehall, and a trusted ally of Oron Seashield.
+**** Iola Frostbeard
+A member of the magehall and a subordinate of Elia Touchstone, She runs the security of the magehall building itself. 
+**** 
+*** Heth city
+**** Scoria Rockblood. 
+The Queen of Heth.
+**** Hygur Seashield
+The founder of the Seashield clan. Now in the last years of his life Hygur has retired from leading the clan. But his role in accepting the clanless dwarves of Heth into the Seashields, and returning their honour, has won him fanatical support from the members of the clan and his influence may exceed even that of the current leader.  
+**** Martor Rockblood
+The head of Heth's army. Martor is popular and would be the favourite to be elected as the next king. He is an outspoken dwarf, who has often raised the idea that the nations defenses at the border with Orsina are insufficient.
+*** Hermelin
+**** Bobadil
+**** Savlon
+**** Hermelin family
+The Hermelin family is made up of Hermelin senior, his wife 
+**** Guards
+*** Elsewhere in Heth
+**** Gavan. 
+A priest of Savras at an ancient temple to the god near Heth City. He is a prominent member of the faith in Heth.
+**** Dylan
+Previously an assistant at the general store in Hermelin, he was persuaded to follow in his fathers footsteps and become a hunter. Dylan's father never returned after he tried to take a letter requesting aid from Brentwood during the goblin raids.
+**** Flynn. 
+A rock gnome fletcher who travels the world on his pet flail snail selling magical arrows of the highest quality.

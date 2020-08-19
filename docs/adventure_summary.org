@@ -1,0 +1,26 @@
+#+TITLE: Nightbloom - adventure summary
+#+LATEX_CLASS: dnd
+#+OPTIONS: bg:full justified:true toc:nil
+
+* A rough timeline of the adventure so far
+**** 13th Oghma's month. 
+The adventurers carry out a quest to rid the village Hermelin of goblins that are raiding the village from caves to the south. The goblins were defeated at the cost of the lives of Drusilia and San Rordov. Several unexpected magic items were found in the goblins cave including a ring of mind shielding which contained the soul of a man named Tolman who wished to be returned to his wizard friend for resurrection.
+
+**** roughly 16th Oghma's month. 
+The adventurers transported the body of Drusilia to the woods west of Hermelin. They were told of a Witch living there who previously reincarnated the wife of one of the farm hands of Hermelin killed in goblin raids a decade ago. Shortly after they returned to the town they left to live in Eastcliff traumatised by the events that had transpired. The adventurers found the witch who reincarnated Drusilia as a human, and demanded as a price the delivery of a human baby casting Geas on Skaemon to enforce this.
+
+**** 18th Oghma's month. 
+The adventurers arrive in Hethport and enquired about possible means of aquiring a baby. They settled in for the night at the Rusty Anchor, a pub by the ports of Hethport. During the night the adventurers were awakened by a loud noise. Leaving the pub they saw dozens of Vrock demons flying from the Magehall and attacking the port. Vrocks flew to the windows of houses on the cliff face of hethport breathing poisonous spores into peoples homes. The adventurers defeated one vrock which attempted to attack the Rusty Anchor.\\ 
+As the port turned into a battlefield several mages flew from the magehall to join the fight. The mages turned the tide of the battle, but after they left the magehall the adventurers noticed three figures drop from the magehall to the ports nearby, magically drifting the last few feet to the ground before running East away from the Vrock attack. The adventurers followed these adventurers to a house here where they teleported away. The residents of this house were found murdered.\\
+The adventurers reported this to Oron Seashield who was excited to have a lead on the events of the night. He revealed that the thieves described sound similar to the Witchcloak thieves who have been active in other parts of Heth. In total 467 people died in the Vrock attack.
+
+**** 19th Oghma's month.
+Oron sends the party to the Heartless Bastard to meet Wilda a ratcatcher to deal with a problem in the sewers and to investigate the bar for any signs of the witchcloaks as it is a place where less reputable folks hang out.
+
+**** 22nd Oghma's month.
+After several days of discussions with the Orphanage, forging a reference from Oron Seashield and using the house The Witchcloak's escaped from for a home visit. The adventurers were able to adopt Keithette, a human baby, and Crobur a 14 year old half-orc with some potential as a cleric.
+
+**** 24th Oghma's month.
+The adventurers have been staking out the Heartless Bastard, a figure entered and offered to hire protection to get to Orsina for a large sum of money. The Adventurers followed the figure to the docks where they were assassinated by the Witchcloaks.
+
+
