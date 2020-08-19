@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # latex and pdf outputs from dnd documentation
-.pdf
-.tex
+**.pdf
+**.tex
