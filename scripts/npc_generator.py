@@ -1,15 +1,17 @@
 import numpy as np
+import pandas as pd
 import random
 import csv
 import dndTools
+import glob
+import itertools
 
 class ancestry: #TODO add surnames
     def __init__(self, ancestry, ancestry_weight, m_names, f_names, x_names, descriptions, gender_ratio = [49,49,2]):
         """
         ancestry should be a string and is the name of the ancestry.
-        ancestry_weight should be a positive integer between 1 and 100. The chance of an ancestry
-        being selected from the ancestry_table will be ancestry_weight/sum(ancestry_weights). A race
-        with a value of 1 will be rare, with a value of 100 it will be common.
+        ancestry_weight should be a positive integer. The chance of an ancestry
+        being selected from the ancestry_table will be ancestry_weight/sum(ancestry_weights).
         m_names, f_names, x_names and descriptions should all be lists of strings
         gender_ratio is the ratio of male:female:nonbinary in a list of floats [m,f,x]
         """
@@ -33,11 +35,22 @@ class ancestry_table:
         for ancestry in self.ancestries:
             self.ancestry_weights.append(self.ancestry_table[ancestry].ancestry_weight)
 
-    def load_ancestry_table(self,filepath): #TODO load from json
-        pass
+    def load_ancestry_table(self,filepath): #TODO load from csv
+        ancestries = []
+        for ancestry_filepath in glob.glob(filepath):
+            df = pd.read_csv(ancestry_filepath) 
+            #TODO reformat data into a suitable layout to turn into ancestry
+            ancestries.append(ancestry(ancestry_name,ancestry_weight,m_names,f_names,x_names,descriptions,gender_ratio))
 
-    def save_ancestry_table(self,filepath): #TODO save to json
-        pass
+    def save_ancestry_table(self,filepath): #TODO save to csv
+        for key,ancestry in self.ancestry_table.items():
+            rows = itertools.zip_longest([ancestry.ancestry],[ancestry.ancestry_weight],ancestry.m_names,ancestry.f_names,ancestry.x_names,ancestry.descriptions,ancestry.gender_ratio)
+            ancestry_filepath = filepath + ancestry.ancestry + ".csv"
+            with open(ancestry_filepath, "w") as f:
+                writer = csv.writer(f)
+                for row in rows:
+                    writer.writerow(row)
+
 
     def random_ancestry(self,n=1):
         chosen_ancestry = random.choices(self.ancestries, weights=self.ancestry_weights, k=n)
@@ -151,11 +164,11 @@ def generate_npc(n,ancestry_table,quirk_table):
         npc_strings.append(npc_string)
     return npc_strings
 
-def npc(n=1,csv_export=False):
+def npc(n=1,filepath="../config/phb/",csv_export=False):
     """
     function to run from commandline for debugging
     """
-    npcs = generate_npc(n,ancestry_table,quirk_table)
+    npcs = generate_npc(n,ancestry_table,quirk_table(filepath=filepath+"quirks/"))
     for npc in npcs:
         print(npc)
 
