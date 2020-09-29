@@ -1,5 +1,12 @@
 import dndTools
 import numpy as np
+import json
+from json import JSONEncoder
+
+# subclass JSONEncoder
+class EmployeeEncoder(JSONEncoder):
+        def default(self, o):
+            return o.__dict__
 
 class business: #this is not very elegant please ignore the countless circular dependencies!
     def __init__(self, products={}, producers={}, locations={}, day=0, total_gp=0):
@@ -45,7 +52,7 @@ class business: #this is not very elegant please ignore the countless circular d
         self.locations[location.name] = location
 
     def save(self): #TODO save as json
-        pass
+        return (jsonpickle.encode(self))
 
     def load(self): #TODO load from json
         pass
@@ -141,7 +148,7 @@ class purchase_power:
         percentage_afford = []
         price = [] 
         for i,percentage in enumerate(percentage_at_price_point):
-            #I've hacked this to do it quickly
+            #I've hacked this to do it quickly, I want to change this to a np.piecwise function
             if (i==0):
                 price += np.linspace(0,10**i,2).tolist()
                 percentage_afford += np.linspace(1,percentage,2).tolist() 

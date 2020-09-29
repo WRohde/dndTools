@@ -105,7 +105,7 @@ class randomTable:
             return(chosenEntry())
         else:
             return(chosenEntry)
-        
+
 def randomTableFromCSV(filename):
     """
     import a csv file as a randomTable, csv should be two columns 
@@ -123,9 +123,24 @@ def randomTableFromCSV(filename):
             elif(row[0] != 'subtable' and subtableFlag):
                 tableEntries.append(randomTable(subtableEntries))
                 tableEntries.append(row[1])
-                subtableFlag = False
+                subtableFlag = False 
             else:
                 tableEntries.append(row[1])
     return randomTable(tableEntries)
 
+def randomTableToCSV(randomTable,filename): 
+    """
+    export the randomTable to csv
+    """
+    with open(filename,"w+", newline='',encoding='UTF-8') as csvfile:
+        writer = csv.writer(csvfile)
+
+        for entry in randomTable.tableEntries:
+            if type(entry) is type(randomTable):
+                for subentry in entry.tableEntries:
+                    writer.writerow(["subtable", subentry])
+            else:
+                writer.writerow(["", entry])
+            
+                
 
