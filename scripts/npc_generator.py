@@ -24,11 +24,14 @@ class ancestry: #TODO add surnames
         self.gender_ratio = gender_ratio
 
 class ancestry_table:
-    def __init__(self, ancestries = None):
+    def __init__(self, ancestries = None, filepath = None):
         """
         ancestries should be a dict of ancestry class objects with ancestry.ancestry as their
         respective keys.
         """
+        if filepath:
+            ancestries = self.load_ancestry_table(filepath)
+    
         self.ancestry_table = ancestries
         self.ancestries = list(ancestries.keys())
         self.ancestry_weights = []
@@ -36,11 +39,21 @@ class ancestry_table:
             self.ancestry_weights.append(self.ancestry_table[ancestry].ancestry_weight)
 
     def load_ancestry_table(self,filepath): #TODO load from csv
-        ancestries = []
-        for ancestry_filepath in glob.glob(filepath):
-            df = pd.read_csv(ancestry_filepath) 
-            #TODO reformat data into a suitable layout to turn into ancestry
-            ancestries.append(ancestry(ancestry_name,ancestry_weight,m_names,f_names,x_names,descriptions,gender_ratio))
+        ancestries = {}
+        for ancestry_filepath in glob.glob(filepath+"*.csv"):
+            print(ancestry_filepath)
+            ancestry_df = pd.read_csv(ancestry_filepath,header=None)
+            ancestry_name = ancestry_df[0][0]
+            ancestry_weight = ancestry_df[1][0]
+            m_names = ancestry_df[2].dropna().to_list()
+            f_names = ancestry_df[3].dropna().to_list()
+            x_names = ancestry_df[4].dropna().to_list()
+            descriptions = ancestry_df[5].dropna().to_list()
+            gender_ratio = ancestry_df[6].dropna().to_list()
+            del(ancestry_df)
+            ancestries[ancestry_name] = ancestry(ancestry_name,ancestry_weight,m_names,f_names,x_names,descriptions,gender_ratio)
+
+        return ancestries
 
     def save_ancestry_table(self,filepath): #TODO save to csv
         for key,ancestry in self.ancestry_table.items():
@@ -164,11 +177,11 @@ def generate_npc(n,ancestry_table,quirk_table):
         npc_strings.append(npc_string)
     return npc_strings
 
-def npc(n=1,filepath="../config/phb/",csv_export=False):
+def npc(filepath="../config/phb/",n=1,csv_export=False):
     """
     function to run from commandline for debugging
     """
-    npcs = generate_npc(n,ancestry_table,quirk_table(filepath=filepath+"quirks/"))
+    npcs = generate_npc(n,ancestry_table(filepath=filepath+"ancestries/"),quirk_table(filepath=filepath+"quirks/"))
     for npc in npcs:
         print(npc)
 
